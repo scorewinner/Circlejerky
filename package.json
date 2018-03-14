@@ -1,0 +1,24 @@
+{
+  "name": "Circlejerky",
+  "version": "1.0.0",
+  "description": "Slack Circlejerky bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node circlejerky.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:scorewinner/Circlejerky.git"
+  },
+  "author": "scorewinner",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.5.5",
+    "brewerydb-node": "0.0.1",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.1"
+  }
+}
