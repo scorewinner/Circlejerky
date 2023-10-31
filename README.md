@@ -1,3 +1,4 @@
+**This Repo is not maintained and archived**
 
 **Circlejerky** is a chatbot made for Slack. Our beloved Circlejerky has following skills:
 
